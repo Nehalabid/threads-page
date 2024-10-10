@@ -73,6 +73,7 @@ border-radius: .8rem;
 border :none;
 font-size: .95rem;
 font-weight: 500;
+background-color: white;
 }
 .bottom button:nth-child(2){
 background-color: transparent;
@@ -86,7 +87,7 @@ color: white;
         width: 80%;
     }
     .left h1{
-        font-size: 1.2rem;
+        font-size: 1.3rem;
         line-height: 3rem;
     }
     .left h3{
